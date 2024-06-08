@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-Tamaño_personalizado_1">
+      <rect width="16" height="16"/>
+    </clipPath>
+  </defs>
+  <g id="Tamaño_personalizado_1" data-name="Tamaño personalizado – 1" clip-path="url(#clip-Tamaño_personalizado_1)">
+    <g id="Grupo_1" data-name="Grupo 1" transform="translate(-1.713 -0.543)">
+      <g id="Rectángulo_1" data-name="Rectángulo 1" transform="translate(2.301 1.135)" fill="none" stroke="#000" stroke-width="1">
+        <rect width="14" height="14" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="13" height="13" rx="1.5" fill="none"/>
+      </g>
+      <line id="Línea_1" data-name="Línea 1" x2="5.949" transform="translate(8.681 5.239)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Línea_2" data-name="Línea 2" x2="5.949" transform="translate(8.681 8.459)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Línea_3" data-name="Línea 3" x2="5.949" transform="translate(8.681 11.68)" fill="none" stroke="#000" stroke-width="1"/>
+      <path id="star-svgrepo-com_1_" data-name="star-svgrepo-com (1)" d="M6.76,3.9c.1-.231.154-.346.226-.382a.222.222,0,0,1,.2,0c.072.036.123.151.226.382l.819,1.838a.491.491,0,0,0,.069.128.222.222,0,0,0,.075.054.491.491,0,0,0,.144.026l2,.211c.251.027.377.04.433.1a.222.222,0,0,1,.061.188c-.012.079-.105.164-.293.333L9.223,8.126a.491.491,0,0,0-.1.105.222.222,0,0,0-.029.088.491.491,0,0,0,.02.145l.417,1.968c.052.247.079.371.042.441a.222.222,0,0,1-.16.116c-.079.013-.188-.05-.407-.176L7.262,9.808a.492.492,0,0,0-.131-.063.223.223,0,0,0-.092,0,.492.492,0,0,0-.131.063L5.165,10.814c-.219.126-.328.189-.407.176a.222.222,0,0,1-.16-.116c-.037-.071-.011-.194.042-.441l.417-1.968a.491.491,0,0,0,.02-.145.222.222,0,0,0-.029-.088.491.491,0,0,0-.1-.105L3.453,6.779c-.188-.169-.281-.254-.293-.333a.222.222,0,0,1,.061-.188c.056-.057.182-.07.433-.1l2-.211A.491.491,0,0,0,5.8,5.925a.222.222,0,0,0,.075-.054.491.491,0,0,0,.069-.128Z" transform="translate(6.7 4.959)" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="check-svgrepo-com" d="M9.02,8.045,6.554,10.512,5.47,9.427,5.8,9.1l.758.758,2.14-2.14Z" transform="translate(-1.169 -4.326)" fill-rule="evenodd"/>
+      <path id="check-svgrepo-com-2" data-name="check-svgrepo-com" d="M9.02,8.045,6.554,10.512,5.47,9.427,5.8,9.1l.758.758,2.14-2.14Z" transform="translate(-1.169 -0.969)" fill-rule="evenodd"/>
+      <path id="check-svgrepo-com-3" data-name="check-svgrepo-com" d="M9.02,8.045,6.554,10.512,5.47,9.427,5.8,9.1l.758.758,2.14-2.14Z" transform="translate(-1.169 2.387)" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

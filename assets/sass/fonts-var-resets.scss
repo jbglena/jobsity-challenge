@@ -1,0 +1,39 @@
+// color vars
+$dark-color: #000000;
+$orange-color: #EAB96A;
+$white-color: #FFFFFF;
+$grey-color: #adadad;
+$light-bg-color: #f8f8f8;
+// font vars
+$default-body-font-size: 12pt;
+$default-body-font-color: #485260;
+$bold-subtitle-font-color: #2b2b2b;
+
+//  fonts
+  @font-face {
+    font-family: IntroRustG;
+    src: url('../fonts/IntroRustG-Base2Line.otf'), 
+  }
+  @font-face {
+    font-family: Intro;
+    src: url('../fonts/Intro.otf'), 
+  }
+  @font-face {
+    font-family: Minio;
+    src: url('../fonts/MinionPro-Regular.otf'), 
+  }
+  
+  //Reset CSS
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
