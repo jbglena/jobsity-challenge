@@ -3,116 +3,90 @@
     .section-custom-css {
         margin: 0em 1em 0 1em;
     }
-
     .banner-subtitle,
     .banner-title-secondary {
         font-size: 12pt;
         margin: 10px;
     }
-
     .banner-title {
         font-size: 30pt;
     }
-
     .section-titles_black span i {
         padding: 7px;
     }
-
     .tabs-container li a {
         padding: 5px !important;
     }
-
     .coffe-bean2-right {
         display: none;
     }
-
     .columns-info-container {
         margin-top: 2rem;
         padding-top: 2rem;
     }
-
     .table-container table,
     .table-container h6 {
         margin-left: 0em !important;
     }
-
     .table-container {
         padding: 2em;
     }
-
     .section-titles_white h1 {
         padding-top: 2em;
     }
-
     .gallery-container {
         background-image: url(../img/gallery-bg-mobile.png);
         background-size: contain;
     }
-
     .left-arrow::before,
     .right-arrow::before {
         width: 50px;
     }
-
     .left-arrow {
         margin-right: 3rem;
     }
-
     .right-arrow {
         margin-left: 3rem;
     }
-
     .section-titles_black {
         z-index: 999999;
         position: relative;
     }
-
     #testimonialCarousel {
         padding: 2rem;
     }
-
     .facebook-icon {
         right: 29%;
     }
-
     .testimonial-content {
         max-width: 80%;
     }
-
     .partner-img-container img {
         width: 100%;
     }
-
     .partners-brands-container {
         padding: 3em 2em 3em 2em;
     }
-
     #prevBtnMobile,
     #nextBtnMobile {
         padding-top: 10px;
     }
-
     .partner-img-container {
         display: none;
     }
-
     .partner-img-container:nth-child(1) {
         display: block;
     }
-
     .responsive-col {
         flex: 0 0 50%;
         max-width: 50%;
     }
-
     .left-side-img {
         display: none;
     }
-
     .send-div {
         width: 80%;
     }
-
 }
 
 @media (max-width: 991px) {
@@ -120,64 +94,52 @@
         height: 70px;
         border-bottom: none;
     }
-
     .nav-item {
         padding: 10px 0;
     }
-
     .navbar-nav {
         padding: 30px 0;
         width: 100%;
         flex-direction: column;
         background-color: $dark-color;
     }
-
     .nav-link,
     .nav-number {
         padding-right: 0px !important;
         padding-left: 0rem;
     }
-
     .img-library .gallery-img {
         height: 200px;
         padding: 10px;
     }
-
     form {
         width: 90%;
     }
-
     input {
         width: 80%;
     }
-
     .form-group {
         flex-direction: column;
     }
-
     .section-titles_black {
         align-items: center;
         display: flex;
         flex-direction: column;
     }
-
     .border-bottom-title,
     .section-titles_black p {
         width: 90%;
         margin-left: 10px;
     }
-
     .send-div {
         width: 60%;
         margin-top: 4rem;
         margin-left: 0em;
     }
-
     .send-right-arrow::before {
         right: -10%;
         width: 70px;
     }
-
     .send-right-arrow::after {
         right: -8%;
     }
@@ -187,48 +149,39 @@
     .hide-mobile {
         display: none !important;
     }
-
     .navbar-brand-responsive {
         width: 50px;
         display: block;
     }
-
     .navbar-brand img {
         display: none;
     }
-
     .copyright-div {
         font-size: 7pt;
         padding: 10px;
     }
-
     .footer-container-mobile {
         display: block !important;
         border: 1px solid #fff;
         background-color: rgba(0, 0, 0, 0.5);
     }
-
     .footer-container-mobile ul {
         list-style-type: none;
         padding: 0;
         margin: 0;
     }
-
     .footer-container-mobile ul li {
         color: white;
         margin-bottom: 10px;
         font-family: Intro;
         font-size: 9pt;
     }
-
     .basic-bkg {
         display: none;
     }
-
     .partners-brands-container {
         padding: 3em 2em 3em 2em;
     }
-
     .partner-img-container img {
         width: 100%;
     }
@@ -238,23 +191,19 @@
     .partner-img-container {
         display: none;
     }
-
     .partner-img-container:nth-child(1),
     .partner-img-container:nth-child(2),
     .partner-img-container:nth-child(3),
     .partner-img-container:nth-child(4) {
         display: block;
     }
-
     .carousel-container {
         justify-content: center;
     }
-
     .table-bordered {
         width: 90%;
         margin-left: 0;
     }
-
     .table-container {
         width: 90%;
     }

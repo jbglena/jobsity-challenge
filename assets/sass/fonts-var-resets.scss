@@ -8,7 +8,6 @@ $light-bg-color: #f8f8f8;
 $default-body-font-size: 12pt;
 $default-body-font-color: #485260;
 $bold-subtitle-font-color: #2b2b2b;
-
 //  fonts
   @font-face {
     font-family: IntroRustG;
@@ -22,7 +21,6 @@ $bold-subtitle-font-color: #2b2b2b;
     font-family: Minio;
     src: url('../fonts/MinionPro-Regular.otf'), 
   }
-  
   //Reset CSS
   *,
   *::before,
@@ -31,9 +29,15 @@ $bold-subtitle-font-color: #2b2b2b;
     margin: 0;
     padding: 0;
   }
-  
   html, body {
     height: 100%;
     margin: 0;
     padding: 0;
+  }
+  body {
+    line-height: 1.5;
+    font-family: Minio;
+    background-color: $light-bg-color;
+    font-size: $default-body-font-size;
+    color: $default-body-font-color;
   }
